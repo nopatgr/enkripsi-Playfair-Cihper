@@ -1,22 +1,33 @@
 # enkripsi-Playfair-Cihper
 
-Enter key: NETWORK
+| Nama   |  Nova Tegar Adiyansyah   |
+| --------- | --------------------| 
+|  Kelas    | TI.20.A1      |
+| Nim   |   312010145 |
 
-Encryption
-Decryption:
-EXIT1
-ENTER MSG: SECURITY
 
-CIPHER TEXT: MO RZ CD WX
+Enter key TEKNIKINFORMATIKA
 
-Encryption
-Decryption:
-EXIT2
-ENTER CIPHER TEXT: MORZCDWX
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT1
+ENTER MSG: GOOD BROOM SWEEP CLEAN
+CIPHER TEXT: CM RC DF RW RA PY KW OW BP IO KY 
 
-PLAIN TEXT: SE CU RI TY
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT1
+ENTER MSG: REDWOOD NATIONAL STATE PARK
+CIPHER TEXT: OK CX RW RC IM ET ME FU LN FI OW FM RK 
 
-Encryption
-Decryption:
-EXIT
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT1
+ENTER MSG: JUNK FOOD AND HEALTH PROBLEMS
+CIPHER TEXT: AZ IN OR RC MI GB IO VF CU MR LV NO QY 
+
+ 1.Encryption
+ 2.Decryption:
+ 3.EXIT
+
 
